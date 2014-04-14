@@ -1,0 +1,1 @@
+Micromouse.lbr - FT232RL (USB to RS232 for serial communication) - MAX4427 (Non-inverting Mosfet Driver) - REG1117 (Voltage regulator) - STM32F1 (ARM Processor) - STM32F415 (ARM M4 Processor) - ZXMHC3F381N8 (Mosfet P/N H-Bridge)
